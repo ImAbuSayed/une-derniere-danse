@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Une Dernière Danse
+
+This log tracks the cryptographic history and versioning for the song **Une Dernière Danse** (une-derniere-danse).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-26T02:07:25.065998 | `v1` | `f8d6eff76ec4fa47795df9abe3b9501a2ff87101989bc44a4b269fe49087055e` | `766907be8f1a2831b41f4728faae152239d14bbc34e2e9f9fe46235ef0ea1a59` | `2026-06-26_une-derniere-danse-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
