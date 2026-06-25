@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> J'ai les yeux sur toi depuis que la soirée commence
+> Sous les néons du club, bébé, donne-moi ma chance
+> Laisse le groove te guider, oublie toutes tes méfiances
+> Viens tout contre moi pour une dernière danse
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
